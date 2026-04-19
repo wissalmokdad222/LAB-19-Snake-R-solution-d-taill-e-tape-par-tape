@@ -39,11 +39,11 @@ C();
 Si la permission n’est pas accordée, l’application la demande à l’utilisateur.
 ![](https://github.com/user-attachments/assets/72572fba-fb18-4e43-ba5d-bad2040fbb1f)
 ## Étape 3 : Patch Smali pour bypasser les détections
-
+   ### Décompilation
 ![](https://github.com/user-attachments/assets/5d7982f9-0cf6-4a32-a8e2-4017e0844ea2)
-
+   ### Navigation dans les fichiers
 ![](https://github.com/user-attachments/assets/53792868-8100-4c9a-8def-12f165481061)
-
+   ### modifier les checks critiques
 ![](https://github.com/user-attachments/assets/aa1cd110-76e4-404e-8778-6116ad91677c)
 
 ![](https://github.com/user-attachments/assets/89ef411d-01d0-4134-ba81-6f083983ba0b)
