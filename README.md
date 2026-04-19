@@ -54,12 +54,13 @@ Si la permission n’est pas accordée, l’application la demande à l’utilis
 
 ![](https://github.com/user-attachments/assets/05720b3f-fd92-4034-82af-c2ac1e7c3b80)
 ## Étape 4 : Création du payload YAML
+![](https://github.com/user-attachments/assets/c7c09c7b-06a3-4443-a03e-98119f6a6783)
 
 ![](https://github.com/user-attachments/assets/45317df5-b13f-4a6a-b890-c4aa56e463b8)
 
-![](https://github.com/user-attachments/assets/3db659be-655b-410c-b602-c609a95ce5cd)
+
 ## Étape 5 : Lancement de l’application avec l’Intent approprié
-![](https://github.com/user-attachments/assets/c7c09c7b-06a3-4443-a03e-98119f6a6783)
+![](https://github.com/user-attachments/assets/3db659be-655b-410c-b602-c609a95ce5cd)
 ## Étape 6 : Récupération du flag via logcat
 ![](https://github.com/user-attachments/assets/5bc5b630-faf3-499f-ae19-63c6bcfbdc23)
 
