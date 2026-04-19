@@ -44,11 +44,15 @@ Si la permission n’est pas accordée, l’application la demande à l’utilis
    ### Navigation dans les fichiers
 ![](https://github.com/user-attachments/assets/53792868-8100-4c9a-8def-12f165481061)
    ### modifier les checks critiques
-     #### La fonction a changer dans jadx
+     -La fonction a changer dans jadx
+     
 ![](https://github.com/user-attachments/assets/aa1cd110-76e4-404e-8778-6116ad91677c)
-     #### la fonction dans snake_small
+    -la fonction dans snake_small
+    
 ![](https://github.com/user-attachments/assets/89ef411d-01d0-4134-ba81-6f083983ba0b)
-     #### Apres la modification
+
+     -Apres la modification
+     
 ![](https://github.com/user-attachments/assets/cea86160-2c55-42fe-a125-7f9641dba3ca)
    ###  Recompilation
 ![](https://github.com/user-attachments/assets/c84f3489-ff7f-47bb-a52e-88d34abec32d)
